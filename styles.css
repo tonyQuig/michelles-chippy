@@ -41,7 +41,7 @@ p {
 .content {
     height: 100%;
     color: white;
-    padding: 2%;
+    padding: 1%;
 }
 
 .transparent-text {
@@ -50,6 +50,14 @@ p {
 
 .smaller-text {
     font-size: 1em;
+}
+
+.md-text {
+    font-size: 1.2em
+}
+
+.spacer {
+    height: 5px;
 }
 
 .menu-4-content {
@@ -89,7 +97,7 @@ p {
 }
 
 .menu-item-margin {
-    margin: 2%;
+    margin: 1%;
 }
 
 span {
